@@ -1,5 +1,3 @@
-# README
-
 <h1 align="center">Hi 👋, I'm Juan Avila</h1>
 <h3 align="center">I'm Full Stack Web Developer in process</h3>
 
