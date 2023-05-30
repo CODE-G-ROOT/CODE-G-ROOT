@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Avila</h1>
 <h3 align="center">A passionate full Stack developer in progress from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandavidavilaravelocampus&label=Profile%20views&color=0e75b6&style=flat" alt="juandavidavilaravelocampus" /> </p>
-
 - 🌱 I’m currently learning **PHP and Figma**
 
 - 💬 Ask me about **HTML, CSS, TypeScript, EnmaScript and JavaScript**
