@@ -16,7 +16,7 @@
         <h3 align="">🌱 Connect with me 🌱</h3>
         <p align="">
         <a href="https://www.linkedin.com/in/juan-avila-442974276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-avila-442974276/" height="30" width="40" /></a>
-            <a href="https://instagram.com/https://www.instagram.com/juan.dev_avila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juan.dev_avila/" height="30" width="40" /></a>
+            <a href="https://www.instagram.com/juan.dev_avila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juan.dev_avila/" height="30" width="40" /></a>
             <a href="https://discord.gg/juan856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juan856" height="30" width="40" /></a>
     </p>
     </div>
