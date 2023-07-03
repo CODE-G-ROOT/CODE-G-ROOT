@@ -37,15 +37,14 @@
 <br>
 
 
-<p>
-        <img align="left" style="height:195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandavidavilaravelocampus&show_icons=true&locale=en&layout=compact" alt="juandavidavilaravelocampus" />
-</p>
-
-
-
-<p>&nbsp;
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandavidavilaravelocampus&show_icons=true&locale=en" alt="juandavidavilaravelocampus" />
-</p>
+<div align="center">
+        <p>
+                <img align="left" style="height:195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandavidavilaravelocampus&show_icons=true&locale=en&layout=compact" alt="juandavidavilaravelocampus" />
+        </p>
+        <p>&nbsp;
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandavidavilaravelocampus&show_icons=true&locale=en" alt="juandavidavilaravelocampus" />
+        </p>
+</div>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandavidavilaravelocampus&" alt="juandavidavilaravelocampus" /></p>
 
