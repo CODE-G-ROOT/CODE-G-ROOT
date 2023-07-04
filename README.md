@@ -21,7 +21,7 @@
     </p>
     </div>
 </div>
-<div class="container_container" align="top">
+<div class="container_container" align="center">
     <div class="container_4">
         <img align="left" src="./assets/izquierda.png" style="width: 171px;">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
