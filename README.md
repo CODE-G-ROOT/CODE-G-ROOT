@@ -23,9 +23,9 @@
 </div>
 <div class="container_container" align="top">
     <div class="container_4">
-        <img src="./assets/izquierda.png" style="width: 171px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-        <img src="./assets/derecha.png" style="width: 171px;">
+        <img align="left" src="./assets/izquierda.png" style="width: 171px;">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+        <img align="right" src="./assets/derecha.png" style="width: 171px;">
     </div>
 </div>
 <br>
