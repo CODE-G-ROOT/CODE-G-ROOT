@@ -24,7 +24,6 @@
 <div class="container_container" align="center">
     <div class="container_4" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-        
     </div>
 </div>
 <br>
