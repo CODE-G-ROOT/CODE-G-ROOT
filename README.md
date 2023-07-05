@@ -3,23 +3,21 @@
     </h1>
 
 ​    
-<div class="container">
-    <div class="im">
+<div class="container" align="center">
+    <div>
         <h3 align="center">⚡ I am ⚡</h3>
-        <ul>
-            <li>Studing on <b>Campuslands</b> back-end develoment</li>
-            <li>Fun fact: <b><i>"Missing who I was yesterday is not part of who I am today"</i></li>
-        </ul>
+        <dl>
+            <dt>&lt// -- Studing on <b>Campuslands</b> back-end develoment --//&gt</dt>
+            <dt>&lt// -- Studing English --//&gt</dt>
+            <dt>&lt// -- Soft skills management --//&gt</dt>
+            <dt>&lt// -- Fun fact: <b><i>"Missing who I was yesterday is not part of who I am today"</i> --//&gt</dt>
+        </dl>
         <br>
+        <h3>✨ CURRENTLY LEARNING ✨</h3>
+                    <h5>PHP  ||   NODE.JS   ||   EXPRESS   ||   .NET</h5>
         <br>
-        <h3 align="center">✨ TECNOLOGIES THAT I'M CURRENTLY LEARNING ✨</h3>
-        <p>PHP  ||   NODE.JS   ||   EXPRESS   ||   .NET</p>
-        <ul>
-            <li>PHP</li>
-            <li>Node.JS</li>
-            <li>Express</li>
-            <li>.NET</li>
-        </ul>
+        <h2 align="center"></h2><br>
+        <p align="center"></p>
     </div>
     <div class="contact" align="center">
         <h3 align="">🌱 Connect with me 🌱</h3>
