@@ -13,6 +13,7 @@
         <br>
         <br>
         <h3 align="center">✨ TECNOLOGIES THAT I'M CURRENTLY LEARNING ✨</h3>
+        <p>PHP  ||   NODE.JS   ||   EXPRESS   ||   .NET</p>
         <ul>
             <li>PHP</li>
             <li>Node.JS</li>
