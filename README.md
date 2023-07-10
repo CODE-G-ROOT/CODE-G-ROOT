@@ -3,21 +3,18 @@
     </h1>
 
 ​    
-<div class="container" align="left">
-    <div>
+<div class="container" align="center">
+    <div align="center">
         <h3 align="center">⚡ I am ⚡</h3>
-        <dl>
-            <dt>&lt// -- Studing on <b>Campuslands</b> back-end develoment --//&gt</dt>
-            <dt>&lt// -- Studing English --//&gt</dt>
-            <dt>&lt// -- Soft skills management --//&gt</dt>
-            <dt>&lt// -- Fun fact: <b><i>"Missing who I was yesterday is not part of who I am today"</i> --//&gt</dt>
-        </dl>
+            <p>Studing on <b>Campuslands</b> back-end develoment</p>
+            <p>Studing English</p>
+            <p>Soft skills management</p>
+            <p><b><i>"Missing who I was yesterday is not part of who I am today"</i></p>
         <br>
-        <h3>✨ CURRENTLY LEARNING ✨</h3>
+        <h3 align="center">✨ CURRENTLY LEARNING ✨
                     <h5>PHP  ||   NODE.JS   ||   EXPRESS   ||   .NET</h5>
+        </h3>
         <br>
-        <h2 align="center"></h2><br>
-        <p align="center"></p>
     </div>
     <div class="contact" align="center">
         <h3 align="">🌱 Connect with me 🌱</h3>
