@@ -29,7 +29,7 @@
 <div align="center">
   
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=juandavidavilaravelocampus&count_private=true&show_icons=true&theme=radical" />  <img width="425" src="https://streak-stats.demolab.com/?user=juandavidavilaravelocampus&theme=radical"/>
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=juandavidavilaravelocampus&bg_color=171515&color=FF0077&line=ffff&point=FF0077&area=true&hide_border=false" />
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=juandavidavilaravelocampus&bg_color=141321&color=F24194&line=FFB2D0&point=f02e88&area=true&hide_border=false" />
 </div>
 <a align="center" href="https://github.com/juandavidavilaravelocampus/github-stats"></a>
 
