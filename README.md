@@ -27,11 +27,7 @@
 
 
 <div align="center">
-  <div class="container_container" align="center">
-    <div class="container_4" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanDavidAvilaRaveloCampus&theme=radical&card_width=500)](https://git.io/streak-stats"/>
-    </div>
-</div>
+  
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=juandavidavilaravelocampus&count_private=true&show_icons=true&theme=radical" />  <img width="425" src="https://streak-stats.demolab.com/?user=juandavidavilaravelocampus&theme=radical"/>
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=juandavidavilaravelocampus&bg_color=171515&color=FF0077&line=ffff&point=FF0077&area=true&hide_border=false" />
 </div>
