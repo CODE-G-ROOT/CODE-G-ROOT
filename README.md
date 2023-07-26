@@ -24,7 +24,14 @@
 
 <h2 align="center">GitHub Stats:</h2>
 
+
+
 <div align="center">
+  <div class="container_container" align="center">
+    <div class="container_4" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+    </div>
+</div>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=juandavidavilaravelocampus&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kevin2606&theme=react"/>
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=juandavidavilaravelocampus&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 </div>
