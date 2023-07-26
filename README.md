@@ -16,7 +16,7 @@
 <a href="https://discord.gg/juan856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juan856" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandavidavilaravelocampus" alt="juandavidavilaravelocampus"/></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandavidavilaravelocampus&theme=dracula"/></a></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -29,7 +29,7 @@
 <div align="center">
   <div class="container_container" align="center">
     <div class="container_4" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanDavidAvilaRaveloCampus&theme=radical&card_width=500)](https://git.io/streak-stats"/>
     </div>
 </div>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=juandavidavilaravelocampus&count_private=true&show_icons=true&theme=radical" />  <img width="425" src="https://streak-stats.demolab.com/?user=juandavidavilaravelocampus&theme=radical"/>
