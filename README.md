@@ -33,7 +33,7 @@
     </div>
 </div>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=juandavidavilaravelocampus&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kevin2606&theme=react"/>
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=juandavidavilaravelocampus&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=juandavidavilaravelocampus&bg_color=171515&color=FF0077&line=ffff&point=FF0077&area=true&hide_border=true" />
 </div>
 <a align="center" href="https://github.com/juandavidavilaravelocampus/github-stats"></a>
 
