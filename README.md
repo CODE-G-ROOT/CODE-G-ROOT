@@ -24,14 +24,14 @@
 
 <h2 align="center">GitHub Stats:</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <div align="center">
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanDavidAvilaRaveloCampus/JuanDavidAvilaRaveloCampus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanDavidAvilaRaveloCampus/JuanDavidAvilaRaveloCampus/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JuanDavidAvilaRaveloCampus/JuanDavidAvilaRaveloCampus/output/github-contribution-grid-snake.svg">
+</picture>  
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=juandavidavilaravelocampus&count_private=true&show_icons=true&theme=radical" />  <img width="425" src="https://streak-stats.demolab.com/?user=juandavidavilaravelocampus&theme=radical"/>
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=juandavidavilaravelocampus&bg_color=141321&color=F24194&line=FFB2D0&point=f02e88&area=true&hide_border=false" />
 </div>
