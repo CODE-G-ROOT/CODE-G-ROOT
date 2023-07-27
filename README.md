@@ -25,6 +25,8 @@
 <h2 align="center">GitHub Stats:</h2>
 
 
+  ![Snake animation](https://github.com/JuanDavidAvilaRaveloCampus/JuanDavidAvilaRaveloCampus/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">
   
