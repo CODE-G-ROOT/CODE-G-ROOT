@@ -16,7 +16,7 @@
 <a href="https://discord.gg/juan856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juan856" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandavidavilaravelocampus&theme=dracula"/></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanDavidAvilaRaveloCampus&column=7&margin-h=15&no-frame=true&theme=dracula&no-bg=true"/></a></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
