@@ -25,8 +25,11 @@
 <h2 align="center">GitHub Stats:</h2>
 
 
-  ![Snake animation](https://github.com/JuanDavidAvilaRaveloCampus/JuanDavidAvilaRaveloCampus/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   
