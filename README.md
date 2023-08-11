@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Avila</h1>
 
 <p align="center">
-  <img width="100%" height="400" src="https://convert.leiapix.com/s/92f0a489-0f2d-4005-8baa-cebdddb043ef.png?exportSize=null&storedDate=1691793565468&useOriginalImage=false&version=301&animate=true&animateDuration=5.9&animatePosition=null&animateScaleX=1&animateScaleY=0.25&animateScaleZ=1&animateScalePX=0&animateScalePY=0.25&animateScalePZ=0.25&depthFocus=0.5&depthScale=2&dilation=0.015&fit=contain">
+  <img width="100%" height="400" src="./assets/428.jpg">
 </p>
 
 
