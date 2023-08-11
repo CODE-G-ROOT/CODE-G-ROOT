@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Juan Avila</h1>
 
 <p align="center">
-  <img src="./assets/428.jpg">
+  <img width="800" height="400" style="border-radius: 20px;" src="./assets/428.jpg">
 </p>
 
 
 <h3 align="center">A passionate web developer from Colombia</h3>
-<p>👋 Hello! I'm Juan David Avila Ravelo, a passionate Backend Developer who continues to refine his skills, based in Campuslands Colombia. My primary focus is in the world of Backend with Node.js, Express, JavaScript, MongoDB, or MySQL, where I immerse myself in creating robust and efficient solutions.💻✨
-
-When I'm not immersed in lines of code, I delve into other passions. I'm a lover of poetry, philosophy, and psychology, drawing inspiration from the depths of words and ideas. Additionally, I'm a gastronomy and music enthusiast, and in my free time, I can't resist the urge to move to the rhythm of the music on the dance floor. 📚🎵
-
-Thank you for visiting my profile and being a part of my technological and creative journey! 🚀🎉</p>
+<p align="center">👋I am Juan Avila, a passionate Backend Developer focused on Node.js, Express, and JavaScript, with experience in databases like MongoDB and MySQL. My goal is to create robust and efficient solutions for the digital world.🌟
+<p align="center">When I'm not immersed in lines of code, I find inspiration in poetry, philosophy, and psychology, exploring the depths of words and ideas. Additionally, I am a enthusiast of gastronomy 🍔 and music 🎶, and in my free time, the dance floor is my sanctuary. 💃</p>
+<p align="center">Thank you for visiting my profile and joining me on my technological and creative journey! 🚀🎉</p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -82,7 +80,7 @@ Thank you for visiting my profile and being a part of my technological and creat
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanDavidAvilaRaveloCampus&column=7&margin-h=15&no-frame=true&theme=dracula&no-bg=true"/></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuanDavidAvilaRaveloCampus&column=7&margin-h=15&no-frame=true&theme=gruvbox&no-bg=true"/></a></p>
 
 
 <div align="center">
@@ -99,6 +97,4 @@ Thank you for visiting my profile and being a part of my technological and creat
 <a align="center" href="https://github.com/juandavidavilaravelocampus/github-stats"></a>
 </div>
 
-<p align="center">
-  <img style="border-radius: 50px; cursor: none;" src="https://tenor.com/view/test-typing-codes-gif-15828752" alt="Descripción de la imagen">
-</p>
+<a href="https://tenor.com/view/test-typing-codes-gif-15828752">Test Typing GIF</a>from <a href="https://tenor.com/search/test-gifs">Test GIFs</a></div>
