@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Avila</h1>
 
 <p align="center">
-  <img width="800" height="400" style="border-radius: 20px;" src="./assets/428.jpg">
+  <img width="100%" height="400" src="./assets/es_esta.jpg">
 </p>
 
 
