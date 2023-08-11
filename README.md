@@ -97,6 +97,8 @@ Thank you for visiting my profile and being a part of my technological and creat
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDavidAvilaRaveloCampus&bg_color=09131b&color=ff6546&line=ff652f&point=6d2d1d&area=true&hide_border=true" />
 </div>
 <a align="center" href="https://github.com/juandavidavilaravelocampus/github-stats"></a>
-
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanDavidAvilaRaveloCampus&bg_color=09131b&color=ff6546&line=ff652f&point=6d2d1d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img style="border-radius: 50px; cursor: none;" src="https://tenor.com/view/test-typing-codes-gif-15828752" alt="Descripción de la imagen">
+</p>
