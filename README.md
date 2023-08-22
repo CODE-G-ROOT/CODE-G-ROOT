@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Avila</h1>
 
 <p align="center">
-  <img width="100%" height="400" src="./assets/428.jpg">
+  <img width="100%" height="400" src="./assets/815043.png">
 </p>
 
 
@@ -96,5 +96,3 @@
 </div>
 <a align="center" href="https://github.com/juandavidavilaravelocampus/github-stats"></a>
 </div>
-
-<a href="https://tenor.com/view/test-typing-codes-gif-15828752">Test Typing GIF</a>from <a href="https://tenor.com/search/test-gifs">Test GIFs</a></div>
