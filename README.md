@@ -2,7 +2,7 @@
   <img width="100%" height="350" src="./assets/815043.png">
 </p>
 
-
+ 
 <h3 align="center">A passionate web developer from Colombia</h3>
 <p align="center">👋I am Juan Avila, a passionate Backend Developer focused on Node.js, Express, and JavaScript, with experience in databases like MongoDB and MySQL. My goal is to create robust and efficient solutions for the digital world.🌟
 <p align="center">When I'm not immersed in lines of code, I find inspiration in poetry, philosophy, and psychology, exploring the depths of words and ideas. Additionally, I am a enthusiast of gastronomy 🍔 and music 🎶, and in my free time, the dance floor is my sanctuary. 💃</p>
