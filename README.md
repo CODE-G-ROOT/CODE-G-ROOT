@@ -15,9 +15,7 @@
 <a href="https://discord.gg/juan856" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juan856" height="30" width="40" /></a>
   <div align="center">
-  <a href="https://open.spotify.com/user/21zyegznxygu2mzcnxsvygrby">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  
 </div>
 </p>
 
