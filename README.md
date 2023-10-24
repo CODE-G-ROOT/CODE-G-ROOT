@@ -103,5 +103,5 @@
   
   <img width="930" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDavidAvilaRaveloCampus&bg_color=09131b&color=ff6546&line=ff652f&point=6d2d1d&area=true&hide_border=true" />
 </div>
-<a align="center" href="https://github.com/CODE-G-ROOT/github-stats"></a>
+<a align="center" href="https://github.com/juandavidavilaravelocampus/github-stats"></a>
 </div>
