@@ -1,11 +1,9 @@
-<p align="center">
-  <img width="100%" height="350" src="./assets/815043.png">
-</p>
+
 
  
 <h3 align="center">A passionate web developer from Colombia</h3>
-<p align="center">👋I am Juan Avila, a passionate Backend Developer focused on Node.js, Express, and JavaScript, with experience in databases like MongoDB and MySQL. My goal is to create robust and efficient solutions for the digital world.🌟
-<p align="center">When I'm not immersed in lines of code, I find inspiration in poetry, philosophy, and psychology, exploring the depths of words and ideas. Additionally, I am a enthusiast of gastronomy 🍔 and music 🎶, and in my free time, the dance floor is my sanctuary. 💃</p>
+<p align="center">👋I am Juan Avila, a passionate Full Stack Developer focused on MongoDB, Express.js, React.js and Node. I have experience in databases like MongoDB and MySQL. My goal is to create robust and efficient solutions for the digital world.🌟
+<p align="center">When I'm not immersed in lines of code, I find inspiration in poetry, philosophy, and psychology, exploring the depths of words and ideas. Additionally, I am a enthusiast of gastronomy 🍔 and music 🎶, and in my free time, the dance floor is my sanctuary. </p>
 <p align="center">Thank you for visiting my profile and joining me on my technological and creative journey! 🚀🎉</p>
 
 <h2 align="center">Connect with me:</h2>
@@ -24,6 +22,15 @@
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiAkd2KlLODAxXflWoFHco9AmYQFnoECAYQAQ&url=https%3A%2F%2Fwww.markdownguide.org%2F&usg=AOvVaw1fohdJEEbL6kohiJ-Pimbe&opi=89978449" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://canva.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
