@@ -4,8 +4,6 @@ Soy **Juan Avila**, desarrollador backend con experiencia en **Node.js, NestJS y
 
 Tengo experiencia con **microservicios**, bases de datos como **PostgreSQL, MySQL y MongoDB**, y el uso de **Docker** para la contenerización de aplicaciones. Me enfoco en escribir código claro, estructurado y eficiente.  
 
----
-
 ## 🌐 **Conéctate conmigo**  
 
 <p align="center">
@@ -16,8 +14,6 @@ Tengo experiencia con **microservicios**, bases de datos como **PostgreSQL, MySQ
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>  
-
----
 
 ## ⚙️ **Stack Tecnológico**  
 
@@ -36,8 +32,6 @@ Tengo experiencia con **microservicios**, bases de datos como **PostgreSQL, MySQ
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
 </p>  
 
----
-
 ## 📊 **Estadísticas de GitHub**  
 
 <p align="center">
@@ -52,7 +46,3 @@ Tengo experiencia con **microservicios**, bases de datos como **PostgreSQL, MySQ
   <img width="600" src="https://streak-stats.demolab.com/?user=code-g-root&theme=codeSTACKr&hide_border=true"/>
   <img width="930" src="https://github-readme-activity-graph.vercel.app/graph?username=CODE-G-ROOT&bg_color=09131b&color=ff6546&line=ff652f&point=6d2d1d&area=true&hide_border=true"/>
 </div>  
-
----
-
-Esta versión suena más real, sin adornos innecesarios. ¿Te gusta así o quieres algún otro ajuste?
